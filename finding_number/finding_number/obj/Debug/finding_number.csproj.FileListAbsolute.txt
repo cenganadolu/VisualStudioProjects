@@ -1,0 +1,6 @@
+c:\users\mehmetali\documents\visual studio 2012\Projects\finding_number\finding_number\bin\Debug\finding_number.exe.config
+c:\users\mehmetali\documents\visual studio 2012\Projects\finding_number\finding_number\bin\Debug\finding_number.exe
+c:\users\mehmetali\documents\visual studio 2012\Projects\finding_number\finding_number\bin\Debug\finding_number.pdb
+c:\users\mehmetali\documents\visual studio 2012\Projects\finding_number\finding_number\obj\Debug\finding_number.csprojResolveAssemblyReference.cache
+c:\users\mehmetali\documents\visual studio 2012\Projects\finding_number\finding_number\obj\Debug\finding_number.exe
+c:\users\mehmetali\documents\visual studio 2012\Projects\finding_number\finding_number\obj\Debug\finding_number.pdb

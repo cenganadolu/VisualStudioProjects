@@ -1,0 +1,6 @@
+c:\users\mehmetali\documents\visual studio 2012\Projects\sumDoubleAndFloat\sumDoubleAndFloat\bin\Debug\sumDoubleAndFloat.exe.config
+c:\users\mehmetali\documents\visual studio 2012\Projects\sumDoubleAndFloat\sumDoubleAndFloat\bin\Debug\sumDoubleAndFloat.exe
+c:\users\mehmetali\documents\visual studio 2012\Projects\sumDoubleAndFloat\sumDoubleAndFloat\bin\Debug\sumDoubleAndFloat.pdb
+c:\users\mehmetali\documents\visual studio 2012\Projects\sumDoubleAndFloat\sumDoubleAndFloat\obj\Debug\sumDoubleAndFloat.csprojResolveAssemblyReference.cache
+c:\users\mehmetali\documents\visual studio 2012\Projects\sumDoubleAndFloat\sumDoubleAndFloat\obj\Debug\sumDoubleAndFloat.exe
+c:\users\mehmetali\documents\visual studio 2012\Projects\sumDoubleAndFloat\sumDoubleAndFloat\obj\Debug\sumDoubleAndFloat.pdb
